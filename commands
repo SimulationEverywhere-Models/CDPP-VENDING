@@ -1,0 +1,6 @@
+simu -ecouple.ev -mcouple.ma -lcouplelog -ocoupleout
+simu -ecouple1.ev -mcouple1.ma -lcouplelog1 -ocoupleout1
+simu -ecouple2.ev -mcouple2.ma -lcouplelog2 -ocoupleout2
+simu -ecouple3.ev -mcouple3.ma -lcouplelog3 -ocoupleout3
+
+
